@@ -1,0 +1,36 @@
+.homebody{
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+}
+.navbar-header a{
+    color: white;
+    line-height: 2;
+    font-family: cursive;
+    font-size: 30px;
+    margin-left: 5px;
+}
+li a{color: aqua !important;
+    font-weight: bold;
+
+}
+li a:hover{
+    color:azure !important;
+
+}
+.page_heading{
+    text-align: center;
+}
+.label{
+    font-size: 36ox;
+    font-weight: bold;
+    margin: 30px;
+    text-align: center;
+}
+.active{
+    color:white !important;
+}
+
+
+
+
